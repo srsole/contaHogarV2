@@ -1,0 +1,11 @@
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\bin\Debug\contaHogarV2.exe.config
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\bin\Debug\contaHogarV2.exe
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\bin\Debug\contaHogarV2.pdb
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\bin\Debug\contaHogarV2.xml
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\obj\Debug\contaHogarV2.vbprojResolveAssemblyReference.cache
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\obj\Debug\contaHogarV2.Form1.resources
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\obj\Debug\contaHogarV2.Resources.resources
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\obj\Debug\contaHogarV2.vbproj.GenerateResource.Cache
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\obj\Debug\contaHogarV2.exe
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\obj\Debug\contaHogarV2.xml
+c:\users\fsole\documents\visual studio 2015\Projects\contaHogarV2\contaHogarV2\obj\Debug\contaHogarV2.pdb
